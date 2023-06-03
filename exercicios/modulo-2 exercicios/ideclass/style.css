@@ -1,0 +1,15 @@
+.testes{
+    background-color: rgba(121, 31, 31, 0.801);
+    text-align: right;
+}
+#cabecalho{
+    background-color: rgba(173, 142, 73, 0.829);
+    text-align: center;
+}
+body{
+    background-color: rgb(184, 152, 110);
+}
+p{
+    font-size: 17px;
+    font-weight: bold;
+}
